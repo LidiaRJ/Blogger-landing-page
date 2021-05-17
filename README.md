@@ -28,14 +28,14 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
-![](./screenshot.jpg)
+[![Desktop_version](https://github.com/LidiaRJ/Blogger-landing-page/blob/main/screenshots/screencapture-blog-desktop.jpg)](https://github.com/LidiaRJ/Blogger-landing-page/blob/main/screenshots/screencapture-blog-desktop.jpg)
+[![Mobile_version](https://github.com/LidiaRJ/Blogger-landing-page/blob/main/screenshots/screencapture-blog-mobile.jpg)](https://github.com/LidiaRJ/Blogger-landing-page/blob/main/screenshots/screencapture-blog-mobile.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://github.com/LidiaRJ/Blogger-landing-page.git)
+- Solution URL: [Add solution URL here](https://github.com/LidiaRJ/Blogger-landing-page)
+- Live Site URL: [Add live site URL here](https://lidiarj.github.io/Blogger-landing-page/)
 
 ## My process
 
