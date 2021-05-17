@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LidiaRJ/Blogger-landing-page)
-- Live Site URL: [Add live site URL here](https://lidiarj.github.io/Blogger-landing-page/)
+- Solution URL: [(https://github.com/LidiaRJ/Blogger-landing-page)](https://github.com/LidiaRJ/Blogger-landing-page)
+- Live Site URL: [(https://lidiarj.github.io/Blogger-landing-page/)](https://lidiarj.github.io/Blogger-landing-page/)
 
 ## My process
 
